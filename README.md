@@ -7,3 +7,4 @@ Must download NewPing Library: https://code.google.com/p/arduino-new-ping/downlo
 
 Team: Saint Lakers
 Objective: Make a robot that can move, not crash, chase other robots and if possible jump
+Edit
